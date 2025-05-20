@@ -1,2 +1,2 @@
 # Practical-Pathobiological-Dictionary-Defining-Pathomics-Features
-Practical Pathobiological Dictionary Defining Pathomics Features: Addressing Understandable AI Issues in Personalized Liver Cancer; Dictionary Version LP1.0
+Pathobiological Dictionary Defining Pathomics and Texture Features: Addressing Understandable AI Issues in Personalized Liver Cancer; Dictionary Version LCP1.0
