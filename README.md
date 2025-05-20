@@ -1,24 +1,24 @@
-# Biological-and-Radiological-Dictionary-of-Radiomic-Features
-"Paper Title: Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary Version PM1.0".  
+# Pathobiological-Dictionary-Defining-Pathomics-Features--Dictionary-Version-LCP1.0
+"Paper Title: Pathobiological Dictionary Defining Pathomics and Texture Features: Addressing Understandable AI Issues in Personalized Liver Cancer; Dictionary Version LCP1.0".  
 
-ArXiv: https://arxiv.org/abs/2412.10967
+ArXiv: ....
 
 This study comprises two sections:
-i) Development of a radiological/biological dictionary of radiomics features.
+i) Development of a radiological/pathological dictionary of radiomics features.
 ii) Demonstration of the dictionary's practical application in addressing real-world problems, such as a classification task.
 
 
-#i) Development of a radiological/biological dictionary of radiomics features.
-The "Radiological and Biological Dictionary of Radiomics Features.xlsx" file contains four sheets:
+#i) Development of a radiological/pathological dictionary of radiomics features.
+The "Radiological and Pathological Dictionary of Radiomics Features.xlsx" file contains four sheets:
 
 1) Sheet name: Relationships_1 
-Semantic Feature and Radiomics Feature Relationships: This sheet outlines the connections between semantic features and their corresponding radiomics features.
+Semantic Feature and Radiomics Feature Relationships: This sheet outlines the connections between semantic features and their corresponding radiomics and patho,mics features.
 
 2) Sheet name: Radiomics Definitions_2 
 Radiomics Feature Definitions: This sheet provides detailed definitions of various radiomics features.
 
 3) Sheet name: PIRADS Definitions_3
-PI-RADS Elements and Related Semantic Features: This sheet maps the PI-RADS elements to their associated semantic features.
+PI-RADS Elements and Related Semantic Features: This sheet maps the WHO elements to their associated semantic features.
 
 4) Sheet name: Semantic Definitions_4 
 Semantic Visual Assessment Criteria Definitions: This sheet offers definitions for the semantic criteria used in visual assessments.
