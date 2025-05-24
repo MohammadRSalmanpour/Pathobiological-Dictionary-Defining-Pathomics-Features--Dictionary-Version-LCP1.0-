@@ -1,7 +1,7 @@
 # Pathobiological-Dictionary-Defining-Pathomics-Features--Dictionary-Version-LCP1.0
 # Paper Title: "Pathobiological Dictionary Defining Pathomics and Texture Features: Addressing Understandable AI Issues in Personalized Liver Cancer; Dictionary Version LCP1.0".  
 
-ArXiv: ....
+ArXiv: (https://arxiv.org/abs/2505.14926)
 
 This study comprises two sections:
 i) Development of a radiological/pathological dictionary of radiomics features.
